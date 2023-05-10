@@ -1,4 +1,4 @@
-## 😁 Olá, sou Lucas Biazon, Web Develop full-stack e Software Developer
+## 😁 Olá, sou Lucas Biazon
   
 ![LucasBiazon GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBiazon&theme=tokyonight&show_icons=true)
 
