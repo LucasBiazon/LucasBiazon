@@ -1,7 +1,7 @@
 <h1> &#x1F601; Hi, I'm Lucas Biazon Palma!</h1>
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me*
  
  <!--Intro start-->
 
