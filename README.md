@@ -19,7 +19,7 @@
   <br></br>
 <td width="50%" align="center">
 
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBiazon&theme=tokyonight&hide_progress=true" height=250px width=100%/>
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBiazon&theme=tokyonight&hide_progress=true" height=200px width=100%/>
   </td>
 </tr>
 </table>
