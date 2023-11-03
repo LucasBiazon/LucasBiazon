@@ -2,7 +2,10 @@
 <br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
- 
+ <p>Olá! Tudo bem? Eu sou o Lucas, desenvolvedor fullstack com experiência e conhecimento no desenvolvimento de webSite e webApp com as técnologias javaScript: React.js e Node.js, e no desenvolvimento de sistemas com a linguagem Java juntamente com seu frameWork Spring.</p>
+  <ul>
+    <li>https://www.linkedin.com/in/lucas-b-palma-69b077295/</li>
+  </ul>
  <!--Intro start-->
 
 <!--Intro end-->
