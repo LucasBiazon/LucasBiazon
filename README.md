@@ -1,7 +1,5 @@
 <h1> &#x1F601; Hi, I'm Lucas Biazon Palma!</h1>
-<br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
  <p>What´s Up? My name is Lucas, I'm an IT student from Federal Institute of Education, Science and Technology from Campinas - SP. I'm a fullstack developer working on webSite and webApp development with JavaScript technologies: React.js and Node.js, and on systems development with the Java language together with its Spring frameWork. </p>
   
  <!--Intro start-->
