@@ -1,5 +1,5 @@
 <h1>Hi, I'm Lucas Biazon Palma! &#x1F601;</h1>
-
+<img src="https://www.canva.com/design/DAF5V6zSEBQ/nP2j2XmvZA9xs15FBmpZnQ/edit"/>
  <p>What´s Up? My name is Lucas, I'm an IT student from Federal Institute of Education, Science and Technology from Campinas - SP. I'm a fullstack developer working on webSite and webApp development with JavaScript technologies: React.js and Node.js, and on systems development with the Java language together with its Spring frameWork. </p>
   
  <!--Intro start-->
