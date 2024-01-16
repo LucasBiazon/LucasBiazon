@@ -11,8 +11,8 @@
 <p align="center">
   <!--- stats (start) -->
 <div aling="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasBiazon&theme=tokyonight&show_icons=true&count_private=true" height=196px width=49% />
-  <img width="47%" height="196px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBiazon&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasBiazon&theme=tokyonight&show_icons=true&count_private=true" height=195px width=49% />
+  <img width="47%" height="194px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBiazon&layout=compact&theme=tokyonight" />
 </div>
 
 
