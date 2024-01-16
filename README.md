@@ -1,6 +1,6 @@
 <h1>Hi, I'm Lucas Biazon Palma! &#x1F601;</h1>
  <p>What´s Up? My name is Lucas, I'm an IT student from Federal Institute of Education, Science and Technology from Campinas - SP. I'm a fullstack developer working on webSite  and webApp development with JavaScript technologies: React.js and Node.js</p>
-  <img height="200px" src="https://github.com/LucasBiazon/LucasBiazon/blob/main/LUCAS%20BIAZON.png"/>
+  <img height="200px" width="100%" src="https://github.com/LucasBiazon/LucasBiazon/blob/main/LUCAS%20BIAZON.png"/>
 
  <!--Intro start-->
 
