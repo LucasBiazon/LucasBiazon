@@ -1,7 +1,7 @@
 <h1>Hi, I'm Lucas Biazon Palma! &#x1F601;</h1>
-<img src="https://github.com/LucasBiazon/LucasBiazon/blob/main/LUCAS%20BIAZON.png"/>
- <p>What´s Up? My name is Lucas, I'm an IT student from Federal Institute of Education, Science and Technology from Campinas - SP. I'm a fullstack developer working on webSite and webApp development with JavaScript technologies: React.js and Node.js, and on systems development with the Java language together with its Spring frameWork. </p>
-  
+ <p>What´s Up? My name is Lucas, I'm an IT student from Federal Institute of Education, Science and Technology from Campinas - SP. I'm a fullstack developer working on webSite  and webApp development with JavaScript technologies: React.js and Node.js</p>
+  <img src="https://github.com/LucasBiazon/LucasBiazon/blob/main/LUCAS%20BIAZON.png"/>
+
  <!--Intro start-->
 
 <!--Intro end-->
@@ -10,18 +10,12 @@
 <!--   -->
 <p align="center">
   <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=LucasBiazon&theme=tokyonight&show_icons=true&count_private=true" height=200px width=100% />
-  <br></br>
-<td width="50%" align="center">
+<div aling="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasBiazon&theme=tokyonight&show_icons=true&count_private=true" height=196px width=49% />
+  <img width="47%" height="196px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBiazon&layout=compact&theme=tokyonight" />
+</div>
 
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBiazon&theme=tokyonight&hide_progress=true" height=200px width=90%/>
-  </td>
-</tr>
-</table>
+
 <!--- stats (end) -->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
