@@ -12,7 +12,7 @@
   <!--- stats (start) -->
 <div aling="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LucasBiazon&theme=tokyonight&show_icons=true&count_private=true" height=195px width=49% />
-  <img width="47%" height="194px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBiazon&layout=compact&theme=tokyonight" />
+  <img width="40%" height="194px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBiazon&layout=compact&theme=tokyonight" />
 </div>
 
 
