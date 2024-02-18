@@ -1,5 +1,5 @@
 <h1>Hi, I'm Lucas Biazon Palma! &#x1F601;</h1>
- <p>Hey, what's up? I'm Lucas, a student at the Federal Institute of Education, Science, and Technology in Campinas - SP. I'm diving into FullStack development, mainly rocking the Back-end scene with Node.js and tools like Nest.js and Fastify. Every day, I'm getting my hands dirty with databases like PostgreSQL, exploring different setups and design patterns like EDA. I'm all about tinkering with different OS environments to level up the projects I'm part of.</p>
+ <p align="justify">Hey, what's up? I'm Lucas, a student at the Federal Institute of Education, Science, and Technology in Campinas - SP. I'm diving into FullStack development, mainly rocking the Back-end scene with Node.js and tools like Nest.js and Fastify. Every day, I'm getting my hands dirty with databases like PostgreSQL, exploring different setups and design patterns like EDA. I'm all about tinkering with different OS environments to level up the projects I'm part of.</p>
   <img height="250px" width="100%" src="https://github.com/LucasBiazon/LucasBiazon/blob/main/LUCAS%20BIAZON.png"/>
 
  <!--Intro start-->
